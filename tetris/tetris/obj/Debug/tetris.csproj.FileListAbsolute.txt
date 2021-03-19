@@ -1,0 +1,50 @@
+C:\Users\omer\source\repos\tetris\tetris\obj\Debug\tetris.Form1.resources
+C:\Users\omer\source\repos\tetris\tetris\obj\Debug\tetris.Properties.Resources.resources
+C:\Users\omer\source\repos\tetris\tetris\obj\Debug\tetris.csproj.GenerateResource.cache
+C:\Users\omer\source\repos\tetris\tetris\obj\Debug\tetris.csproj.CoreCompileInputs.cache
+C:\Users\omer\source\repos\tetris\tetris\bin\Debug\tetris.exe.config
+C:\Users\omer\source\repos\tetris\tetris\bin\Debug\tetris.exe
+C:\Users\omer\source\repos\tetris\tetris\bin\Debug\tetris.pdb
+C:\Users\omer\source\repos\tetris\tetris\obj\Debug\tetris.exe
+C:\Users\omer\source\repos\tetris\tetris\obj\Debug\tetris.pdb
+C:\Users\omer\source\repos\tetris\tetris\obj\Debug\tetris.csprojAssemblyReference.cache
+C:\Users\zehol\OneDrive\Masaüstü\Yeni klasör (5)\tetris\tetris\bin\Debug\tetris.exe.config
+C:\Users\zehol\OneDrive\Masaüstü\Yeni klasör (5)\tetris\tetris\bin\Debug\tetris.exe
+C:\Users\zehol\OneDrive\Masaüstü\Yeni klasör (5)\tetris\tetris\bin\Debug\tetris.pdb
+C:\Users\zehol\OneDrive\Masaüstü\Yeni klasör (5)\tetris\tetris\obj\Debug\tetris.csprojAssemblyReference.cache
+C:\Users\zehol\OneDrive\Masaüstü\Yeni klasör (5)\tetris\tetris\obj\Debug\tetris.Form1.resources
+C:\Users\zehol\OneDrive\Masaüstü\Yeni klasör (5)\tetris\tetris\obj\Debug\tetris.Properties.Resources.resources
+C:\Users\zehol\OneDrive\Masaüstü\Yeni klasör (5)\tetris\tetris\obj\Debug\tetris.csproj.GenerateResource.cache
+C:\Users\zehol\OneDrive\Masaüstü\Yeni klasör (5)\tetris\tetris\obj\Debug\tetris.csproj.CoreCompileInputs.cache
+C:\Users\zehol\OneDrive\Masaüstü\Yeni klasör (5)\tetris\tetris\obj\Debug\tetris.exe
+C:\Users\zehol\OneDrive\Masaüstü\Yeni klasör (5)\tetris\tetris\obj\Debug\tetris.pdb
+C:\Users\omer\Desktop\tetris\tetris\tetris\bin\Debug\tetris.exe.config
+C:\Users\omer\Desktop\tetris\tetris\tetris\bin\Debug\tetris.exe
+C:\Users\omer\Desktop\tetris\tetris\tetris\bin\Debug\tetris.pdb
+C:\Users\omer\Desktop\tetris\tetris\tetris\obj\Debug\tetris.csprojAssemblyReference.cache
+C:\Users\omer\Desktop\tetris\tetris\tetris\obj\Debug\tetris.Form1.resources
+C:\Users\omer\Desktop\tetris\tetris\tetris\obj\Debug\tetris.Properties.Resources.resources
+C:\Users\omer\Desktop\tetris\tetris\tetris\obj\Debug\tetris.csproj.GenerateResource.cache
+C:\Users\omer\Desktop\tetris\tetris\tetris\obj\Debug\tetris.csproj.CoreCompileInputs.cache
+C:\Users\omer\Desktop\tetris\tetris\tetris\obj\Debug\tetris.exe
+C:\Users\omer\Desktop\tetris\tetris\tetris\obj\Debug\tetris.pdb
+C:\Users\zehol\OneDrive\Masaüstü\in_son\tetris\tetris\bin\Debug\tetris.exe.config
+C:\Users\zehol\OneDrive\Masaüstü\in_son\tetris\tetris\bin\Debug\tetris.exe
+C:\Users\zehol\OneDrive\Masaüstü\in_son\tetris\tetris\bin\Debug\tetris.pdb
+C:\Users\zehol\OneDrive\Masaüstü\in_son\tetris\tetris\obj\Debug\tetris.csprojAssemblyReference.cache
+C:\Users\zehol\OneDrive\Masaüstü\in_son\tetris\tetris\obj\Debug\tetris.Form1.resources
+C:\Users\zehol\OneDrive\Masaüstü\in_son\tetris\tetris\obj\Debug\tetris.Properties.Resources.resources
+C:\Users\zehol\OneDrive\Masaüstü\in_son\tetris\tetris\obj\Debug\tetris.csproj.GenerateResource.cache
+C:\Users\zehol\OneDrive\Masaüstü\in_son\tetris\tetris\obj\Debug\tetris.csproj.CoreCompileInputs.cache
+C:\Users\zehol\OneDrive\Masaüstü\in_son\tetris\tetris\obj\Debug\tetris.exe
+C:\Users\zehol\OneDrive\Masaüstü\in_son\tetris\tetris\obj\Debug\tetris.pdb
+C:\Users\zehol\OneDrive\Masaüstü\190707078_hilal_Zehra_Aydın\tetris\tetris\obj\Debug\tetris.csprojAssemblyReference.cache
+C:\Users\zehol\OneDrive\Masaüstü\190707078_hilal_Zehra_Aydın\tetris\tetris\obj\Debug\tetris.Form1.resources
+C:\Users\zehol\OneDrive\Masaüstü\190707078_hilal_Zehra_Aydın\tetris\tetris\obj\Debug\tetris.Properties.Resources.resources
+C:\Users\zehol\OneDrive\Masaüstü\190707078_hilal_Zehra_Aydın\tetris\tetris\obj\Debug\tetris.csproj.GenerateResource.cache
+C:\Users\zehol\OneDrive\Masaüstü\190707078_hilal_Zehra_Aydın\tetris\tetris\obj\Debug\tetris.csproj.CoreCompileInputs.cache
+C:\Users\zehol\OneDrive\Masaüstü\190707078_hilal_Zehra_Aydın\tetris\tetris\obj\Debug\tetris.exe
+C:\Users\zehol\OneDrive\Masaüstü\190707078_hilal_Zehra_Aydın\tetris\tetris\obj\Debug\tetris.pdb
+C:\Users\zehol\OneDrive\Masaüstü\190707078_hilal_Zehra_Aydın\tetris\tetris\bin\Debug\tetris.exe.config
+C:\Users\zehol\OneDrive\Masaüstü\190707078_hilal_Zehra_Aydın\tetris\tetris\bin\Debug\tetris.exe
+C:\Users\zehol\OneDrive\Masaüstü\190707078_hilal_Zehra_Aydın\tetris\tetris\bin\Debug\tetris.pdb
